@@ -1,4 +1,4 @@
-# CS211_Lab07
+# backpack
 Lab07 CS 211
 "The Backpack Problem"
 
