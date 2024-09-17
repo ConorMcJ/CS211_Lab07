@@ -80,6 +80,3 @@ The program dynamically allocates memory for the artifact array and memoization 
 
 This program is provided for educational purposes under the terms of the license for the course.
 
----
-
-Feel free to adjust any details as necessary for your specific needs or guidelines!
