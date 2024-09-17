@@ -1,6 +1,6 @@
 //
-//  lab07.c
-//  lab07
+//  backpack.c
+//  backpack
 //
 //  Created by Conor McJannett on 10/9/23.
 //
